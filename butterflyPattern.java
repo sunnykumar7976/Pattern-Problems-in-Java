@@ -1,6 +1,6 @@
 package LocalRepo;
 
-public class Main {
+public class ButterflyPattern {
     public static void main(String[] args) {
         int n=5;
         //uper half
