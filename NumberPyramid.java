@@ -14,7 +14,6 @@ public class NumberPyramid {
             for(int j=i;j>=1;j--){
                 System.out.print(j);
             }
-            //2nd half
             for(int j=2;j<=i;j++){
                 System.out.print(j);
             }
